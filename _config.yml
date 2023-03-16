@@ -1,4 +1,4 @@
-# The Site Configuration
+#The Site Configuration
 
 # Import the theme
 theme: jekyll-theme-chirpy
@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: munhwas1140                          # the main title
 
-tagline: asdfasdfasdfsf   # it will display as the sub-title
+tagline: The secret of getting ahead is getting started.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -78,10 +78,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://chirpy-img.netlify.app'
+# img_cdn: 'https://chirpy-img.netlify.app'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.jpg'
+avatar: '/assets/img/avatar2.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
